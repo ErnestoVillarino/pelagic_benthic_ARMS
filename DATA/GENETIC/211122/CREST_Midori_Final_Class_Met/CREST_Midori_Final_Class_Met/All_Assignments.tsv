@@ -1,0 +1,598 @@
+Rank	Taxonpath	Taxon	Pelagic01_2000uM	Pelagic01_1000uM	Pelagic1_500uM	Pelagic1_100uM	Pelagic1_Placa	LEK-01_Placa	LEK-01_100uM	LEK-01_500uM	LEK-02_Placa	LEK-02_100uM	LEK-02_500uM	LEK-02_2000uM	LEK-03_Placa	LEK-03_100uM	LEK-03_500uM	LEK-03_2000uM	PAS-01_Placa	PAS-01_100uM	PAS-01_500uM	PAS-02_Placa	PAS-02_100uM	PAS-02_500uM	PAS-02_2000uM	PAS-03_Placa	PAS-03_100uM	PAS-03_500uM	PAS-03_2000uM	ZUM-01_Placa	ZUM-01_100uM	ZUM-01_500uM	ZUM-01_2000uM	ZUM-02_Placa	ZUM-02_100uM	ZUM-02_500uM	ZUM-02_2000uM	ZUM-03_Placa	ZUM-03_100uM	ZUM-03_500uM
+root	root	root	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+meta	Cellular organisms	Cellular organisms	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+domain	Cellular organisms;Eukaryota	Eukaryota	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+superkingdom	Cellular organisms;Eukaryota;Amorphea	Amorphea	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+kingdom	Cellular organisms;Eukaryota;Amorphea;Metazoa	Metazoa	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+phylum	Cellular organisms;Eukaryota;Amorphea;Metazoa;Chordata	Chordata	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+phylum	Cellular organisms;Eukaryota;Amorphea;Metazoa;Echinodermata	Echinodermata	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+phylum	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda	Arthropoda	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+phylum	Cellular organisms;Eukaryota;Amorphea;Metazoa;Nematoda	Nematoda	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+phylum	Cellular organisms;Eukaryota;Amorphea;Metazoa;Rotifera	Rotifera	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+phylum	Cellular organisms;Eukaryota;Amorphea;Metazoa;Annelida	Annelida	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+phylum	Cellular organisms;Eukaryota;Amorphea;Metazoa;Bryozoa	Bryozoa	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+phylum	Cellular organisms;Eukaryota;Amorphea;Metazoa;Entoprocta	Entoprocta	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+phylum	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca	Mollusca	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+phylum	Cellular organisms;Eukaryota;Amorphea;Metazoa;Nemertea	Nemertea	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+phylum	Cellular organisms;Eukaryota;Amorphea;Metazoa;Platyhelminthes	Platyhelminthes	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+phylum	Cellular organisms;Eukaryota;Amorphea;Metazoa;Cnidaria	Cnidaria	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+phylum	Cellular organisms;Eukaryota;Amorphea;Metazoa;Porifera	Porifera	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+class	Cellular organisms;Eukaryota;Amorphea;Metazoa;Chordata;Actinopteri	Actinopteri	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	9	4	8	8	7	9	2	5	3	3	2
+class	Cellular organisms;Eukaryota;Amorphea;Metazoa;Chordata;Chondrichthyes	Chondrichthyes	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+class	Cellular organisms;Eukaryota;Amorphea;Metazoa;Chordata;Ascidiacea	Ascidiacea	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	423	1	0	3	0	0	0	0	0	13	0	0	0	0	0
+class	Cellular organisms;Eukaryota;Amorphea;Metazoa;Echinodermata;Asteroidea	Asteroidea	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+class	Cellular organisms;Eukaryota;Amorphea;Metazoa;Echinodermata;Ophiuroidea	Ophiuroidea	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+class	Cellular organisms;Eukaryota;Amorphea;Metazoa;Echinodermata;Echinoidea	Echinoidea	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+class	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Branchiopoda	Branchiopoda	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+class	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Hexanauplia	Hexanauplia	0	0	0	0	0	0	17	0	0	12	0	1	0	7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	1	1	0
+class	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Malacostraca	Malacostraca	0	4	38	12	21	215	60	346	19	269	297	2918	280	25	287	2255	0	45	38	1	21	33	123	4	26	48	11	9	59	784	5	4	148	216	279	8	26	42
+class	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Thecostraca	Thecostraca	0	0	0	0	15	0	0	0	0	0	0	0	0	0	0	0	0	0	0	20	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+class	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Ostracoda	Ostracoda	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+class	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Pycnogonida	Pycnogonida	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	1	28	0	1	16	34	0	2	11	1	0	0	0	0	0	0	0	0	0	0	0
+class	Cellular organisms;Eukaryota;Amorphea;Metazoa;Nematoda;Chromadorea	Chromadorea	0	0	0	0	0	0	1	0	0	1	0	0	0	1	0	0	9	0	0	0	0	0	0	0	2	0	0	0	65	0	0	0	80	4	0	3	8	0
+class	Cellular organisms;Eukaryota;Amorphea;Metazoa;Nematoda;Enoplea	Enoplea	10	13	66	33	356	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+class	Cellular organisms;Eukaryota;Amorphea;Metazoa;Rotifera;Eurotatoria	Eurotatoria	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	1	2	0	1	0	0	0	1	0	0	0	14	0	0	0	4	0	0	0	1	0
+class	Cellular organisms;Eukaryota;Amorphea;Metazoa;Annelida;Polychaeta	Polychaeta	102	177	1552	83	219	8	19	140	1	50	47	0	1	9	0	6	2	109	337	34	52	129	27	9	61	115	41	192	765	1048	124	28	1001	458	55	23	189	501
+class	Cellular organisms;Eukaryota;Amorphea;Metazoa;Bryozoa;Gymnolaemata	Gymnolaemata	72	23	45	40	229	1	1	0	1	1	0	0	1	13	12	92	11	74	106	96	24	35	69	48	19	24	16	0	0	2	0	0	2	0	0	0	0	0
+class	Cellular organisms;Eukaryota;Amorphea;Metazoa;Bryozoa;Stenolaemata	Stenolaemata	0	0	0	0	0	191	0	4	113	4	1	3	225	1	2	4	2	28	12	70	6	5	27	46	3	6	10	19	3	0	0	1	0	0	0	13	0	1
+class	Cellular organisms;Eukaryota;Amorphea;Metazoa;Entoprocta;Barentsiidae	Barentsiidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	21	9	3	3	0	0	0	5	0	0	0	0	0	0	0	1	0	0	0	0	0
+class	Cellular organisms;Eukaryota;Amorphea;Metazoa;Entoprocta;Pedicellinidae	Pedicellinidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0
+class	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Bivalvia	Bivalvia	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+class	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Cephalopoda	Cephalopoda	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+class	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Gastropoda	Gastropoda	2	68	62	1	4	33	8	24	25	39	45	243	39	48	12	21	13	176	97	68	66	23	93	45	65	5	182	25	10	52	9	1	15	32	20	9	3	0
+class	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Polyplacophora	Polyplacophora	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+class	Cellular organisms;Eukaryota;Amorphea;Metazoa;Nemertea;Enopla	Enopla	0	0	0	0	5	0	0	0	0	14	0	0	0	0	0	0	0	3	4	6	2	0	1	4	0	0	0	8	102	282	0	1	64	0	0	25	23	23
+class	Cellular organisms;Eukaryota;Amorphea;Metazoa;Nemertea;Palaeonemertea	Palaeonemertea	0	0	0	0	0	6	1	8	0	4	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	14	0	0	39	17	0	0	25	0	0	0	0	0
+class	Cellular organisms;Eukaryota;Amorphea;Metazoa;Nemertea;Pilidiophora	Pilidiophora	0	0	0	0	0	0	0	0	0	0	0	0	0	0	19	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+class	Cellular organisms;Eukaryota;Amorphea;Metazoa;Platyhelminthes;Rhabditophora	Rhabditophora	216	25	98	94	26	0	0	0	1	1	0	0	2	0	0	0	0	0	7	0	0	0	0	0	6	0	0	0	0	0	0	0	1	0	0	0	0	0
+class	Cellular organisms;Eukaryota;Amorphea;Metazoa;Cnidaria;Anthozoa	Anthozoa	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+class	Cellular organisms;Eukaryota;Amorphea;Metazoa;Cnidaria;Hydrozoa	Hydrozoa	307	459	1363	2607	8492	30	81	11	42	56	25	27	68	46	10	13	12	353	133	190	175	84	43	276	295	44	42	39	128	44	1	5	201	89	0	46	36	14
+class	Cellular organisms;Eukaryota;Amorphea;Metazoa;Porifera;Demospongiae	Demospongiae	0	0	0	0	0	0	2	0	2	130	19	5	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	4	0	0	1	7	2
+class	Cellular organisms;Eukaryota;Amorphea;Metazoa;Porifera;Homoscleromorpha	Homoscleromorpha	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+order	Cellular organisms;Eukaryota;Amorphea;Metazoa;Chordata;Actinopteri;Labriformes	Labriformes	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+order	Cellular organisms;Eukaryota;Amorphea;Metazoa;Chordata;Actinopteri;Perciformes	Perciformes	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+order	Cellular organisms;Eukaryota;Amorphea;Metazoa;Chordata;Actinopteri;Gobiiformes	Gobiiformes	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+order	Cellular organisms;Eukaryota;Amorphea;Metazoa;Chordata;Actinopteri;Blenniiformes	Blenniiformes	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+order	Cellular organisms;Eukaryota;Amorphea;Metazoa;Chordata;Actinopteri;Gadiformes	Gadiformes	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+order	Cellular organisms;Eukaryota;Amorphea;Metazoa;Chordata;Actinopteri;Clupeiformes	Clupeiformes	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+order	Cellular organisms;Eukaryota;Amorphea;Metazoa;Chordata;Chondrichthyes;Squaliformes	Squaliformes	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	1	0	3	8	0	0	0	1	0
+order	Cellular organisms;Eukaryota;Amorphea;Metazoa;Chordata;Ascidiacea;Aplousobranchia	Aplousobranchia	19	9	131	96	301	0	3	4	0	46	56	8	0	8	37	0	0	3	22	0	3	26	0	3	1	3	4	2	29	77	1	0	77	92	0	0	0	2
+order	Cellular organisms;Eukaryota;Amorphea;Metazoa;Chordata;Ascidiacea;Phlebobranchia	Phlebobranchia	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+order	Cellular organisms;Eukaryota;Amorphea;Metazoa;Chordata;Ascidiacea;Stolidobranchia	Stolidobranchia	0	0	0	0	0	0	0	0	0	13	0	0	0	0	7	0	1	2	5	24	1	7	1	0	130	60	8	0	0	3	0	0	0	1	0	0	0	0
+order	Cellular organisms;Eukaryota;Amorphea;Metazoa;Echinodermata;Asteroidea;Forcipulatida	Forcipulatida	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+order	Cellular organisms;Eukaryota;Amorphea;Metazoa;Echinodermata;Ophiuroidea;Amphilepidida	Amphilepidida	0	0	0	0	0	0	0	0	0	0	0	0	0	0	15	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0	15	0	0	0	0
+order	Cellular organisms;Eukaryota;Amorphea;Metazoa;Echinodermata;Echinoidea;Spatangoida	Spatangoida	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+order	Cellular organisms;Eukaryota;Amorphea;Metazoa;Echinodermata;Echinoidea;Camarodonta	Camarodonta	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+order	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Branchiopoda;Diplostraca	Diplostraca	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+order	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Hexanauplia;Calanoida	Calanoida	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+order	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Hexanauplia;Cyclopoida	Cyclopoida	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+order	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Hexanauplia;Harpacticoida	Harpacticoida	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+order	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Malacostraca;Decapoda	Decapoda	1137	3	2	10	0	4	1	53	0	11	255	64	4	4	100	195	0	0	24	12	0	29	107	0	5	5	43	0	1	53	0	1	2	71	14	1	8	14
+order	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Malacostraca;Amphipoda	Amphipoda	0	0	0	0	0	0	11	0	0	1	367	0	0	0	9	0	8	226	404	37	171	292	27	33	308	212	79	0	0	0	1	0	12	1	0	2	2	1
+order	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Malacostraca;Isopoda	Isopoda	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+order	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Malacostraca;Tanaidacea	Tanaidacea	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+order	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Thecostraca;Balanomorpha	Balanomorpha	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+order	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Thecostraca;Verrucomorpha	Verrucomorpha	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+order	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Ostracoda;Podocopida	Podocopida	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0
+order	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Pycnogonida;Pantopoda	Pantopoda	1	49	26	11	6	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0
+order	Cellular organisms;Eukaryota;Amorphea;Metazoa;Annelida;Polychaeta;Protodrilidae	Protodrilidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+order	Cellular organisms;Eukaryota;Amorphea;Metazoa;Annelida;Polychaeta;Polychaeta sp. BOLD	Polychaeta sp. BOLD	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+order	Cellular organisms;Eukaryota;Amorphea;Metazoa;Annelida;Polychaeta;Eunicida	Eunicida	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+order	Cellular organisms;Eukaryota;Amorphea;Metazoa;Annelida;Polychaeta;Phyllodocida	Phyllodocida	0	0	0	0	0	119	134	62	142	118	202	121	164	159	197	100	4	37	106	21	24	24	8	31	9	49	136	12	337	0	2	3	132	114	0	35	56	19
+order	Cellular organisms;Eukaryota;Amorphea;Metazoa;Annelida;Polychaeta;Chaetopteridae	Chaetopteridae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+order	Cellular organisms;Eukaryota;Amorphea;Metazoa;Annelida;Polychaeta;Sabellida	Sabellida	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+order	Cellular organisms;Eukaryota;Amorphea;Metazoa;Annelida;Polychaeta;Spionida	Spionida	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+order	Cellular organisms;Eukaryota;Amorphea;Metazoa;Annelida;Polychaeta;Terebellida	Terebellida	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+order	Cellular organisms;Eukaryota;Amorphea;Metazoa;Annelida;Polychaeta;Arenicolidae	Arenicolidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+order	Cellular organisms;Eukaryota;Amorphea;Metazoa;Annelida;Polychaeta;Capitellidae	Capitellidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+order	Cellular organisms;Eukaryota;Amorphea;Metazoa;Annelida;Polychaeta;Paraonidae	Paraonidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+order	Cellular organisms;Eukaryota;Amorphea;Metazoa;Bryozoa;Gymnolaemata;Cheilostomatida	Cheilostomatida	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+order	Cellular organisms;Eukaryota;Amorphea;Metazoa;Bryozoa;Gymnolaemata;Ctenostomatida	Ctenostomatida	0	0	2	0	1	0	3	0	0	1	0	0	0	0	0	0	0	1	2	0	0	2	0	0	1	0	3	0	0	0	0	0	0	0	0	0	0	0
+order	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Bivalvia;Cardiida	Cardiida	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+order	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Bivalvia;Myida	Myida	119	1	5	49	279	0	0	0	0	1	0	0	4	0	0	0	12	4	2	109	1	1	18	165	1	7	46	0	0	0	0	0	1	0	0	0	0	0
+order	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Bivalvia;Venerida	Venerida	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+order	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Bivalvia;Limoida	Limoida	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+order	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Bivalvia;Mytiloida	Mytiloida	32	160	40	9	232	7	11	3	20	237	49	10	25	49	8	3	23	3	60	151	13	2	14	106	2	24	25	5	18	0	0	5	9	98	0	133	0	2
+order	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Bivalvia;Ostreida	Ostreida	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+order	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Cephalopoda;Sepiida	Sepiida	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+order	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Gastropoda;Cerithiidae	Cerithiidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+order	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Gastropoda;Cerithiopsidae	Cerithiopsidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+order	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Gastropoda;Triphoridae	Triphoridae	0	0	0	6	0	11	0	11	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+order	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Gastropoda;Littorinimorpha	Littorinimorpha	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+order	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Gastropoda;Neogastropoda	Neogastropoda	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+order	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Gastropoda;Plakobranchidae	Plakobranchidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+order	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Gastropoda;Nudibranchia	Nudibranchia	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+order	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Gastropoda;Pleurobranchida	Pleurobranchida	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+order	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Gastropoda;Patellidae	Patellidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+order	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Gastropoda;Lepetellida	Lepetellida	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+order	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Gastropoda;Trochida	Trochida	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+order	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Polyplacophora;Chitonida	Chitonida	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	3	0	0	0	0	1	0	0	0	0	0	0	0	1	1	0	3	0	0
+order	Cellular organisms;Eukaryota;Amorphea;Metazoa;Nemertea;Enopla;Monostilifera	Monostilifera	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	15	0	0	0	1	0	0	0	0
+order	Cellular organisms;Eukaryota;Amorphea;Metazoa;Nemertea;Palaeonemertea;Cephalotrichidae	Cephalotrichidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+order	Cellular organisms;Eukaryota;Amorphea;Metazoa;Nemertea;Pilidiophora;Heteronemertea	Heteronemertea	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+order	Cellular organisms;Eukaryota;Amorphea;Metazoa;Platyhelminthes;Rhabditophora;Macrostomida	Macrostomida	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+order	Cellular organisms;Eukaryota;Amorphea;Metazoa;Platyhelminthes;Rhabditophora;Polycladida	Polycladida	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+order	Cellular organisms;Eukaryota;Amorphea;Metazoa;Cnidaria;Anthozoa;Actiniaria	Actiniaria	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	82	74	3290	149	28	102	8	0	0	2
+order	Cellular organisms;Eukaryota;Amorphea;Metazoa;Cnidaria;Anthozoa;Corallimorpharia	Corallimorpharia	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+order	Cellular organisms;Eukaryota;Amorphea;Metazoa;Cnidaria;Anthozoa;Zoantharia	Zoantharia	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+order	Cellular organisms;Eukaryota;Amorphea;Metazoa;Cnidaria;Hydrozoa;Anthoathecata	Anthoathecata	1	11	17	39	2	0	0	0	1	0	0	0	0	0	0	0	0	9	11	4	6	2	1	2	5	7	1	0	10	0	0	0	2	0	0	0	0	0
+order	Cellular organisms;Eukaryota;Amorphea;Metazoa;Cnidaria;Hydrozoa;Leptothecata	Leptothecata	1	3	12	32	21	185	188	31	35	2	2	0	44	4	1	1	24	190	76	254	217	99	61	272	145	40	45	15	46	9	0	10	20	29	1	13	7	0
+order	Cellular organisms;Eukaryota;Amorphea;Metazoa;Cnidaria;Hydrozoa;Siphonophorae	Siphonophorae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+order	Cellular organisms;Eukaryota;Amorphea;Metazoa;Porifera;Demospongiae;Axinellida	Axinellida	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0
+order	Cellular organisms;Eukaryota;Amorphea;Metazoa;Porifera;Demospongiae;Biemnida	Biemnida	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+order	Cellular organisms;Eukaryota;Amorphea;Metazoa;Porifera;Demospongiae;Clionaida	Clionaida	0	0	0	0	0	0	12	1	0	4	1	1	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+order	Cellular organisms;Eukaryota;Amorphea;Metazoa;Porifera;Demospongiae;Suberitida	Suberitida	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+order	Cellular organisms;Eukaryota;Amorphea;Metazoa;Porifera;Demospongiae;Tethyida	Tethyida	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	5	0	0	0	5	0	0	0	3	0
+order	Cellular organisms;Eukaryota;Amorphea;Metazoa;Porifera;Demospongiae;Dendroceratida	Dendroceratida	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+order	Cellular organisms;Eukaryota;Amorphea;Metazoa;Porifera;Homoscleromorpha;Homosclerophorida	Homosclerophorida	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Chordata;Actinopteri;Labriformes;Labridae	Labridae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Chordata;Actinopteri;Perciformes;Serranidae	Serranidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Chordata;Actinopteri;Gobiiformes;Gobiidae	Gobiidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Chordata;Actinopteri;Blenniiformes;Blenniidae	Blenniidae	0	0	0	0	0	1	3	3	5171	95	184	12	0	0	0	3	3	5	23	327	80	273	7587	639	2445	353	8947	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Chordata;Actinopteri;Blenniiformes;Gobiesocidae	Gobiesocidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Chordata;Actinopteri;Gadiformes;Gaidropsaridae	Gaidropsaridae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Chordata;Actinopteri;Clupeiformes;Engraulidae	Engraulidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Chordata;Chondrichthyes;Squaliformes;Centrophoridae	Centrophoridae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Chordata;Ascidiacea;Aplousobranchia;Didemnidae	Didemnidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Chordata;Ascidiacea;Phlebobranchia;Ascidiidae	Ascidiidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Chordata;Ascidiacea;Stolidobranchia;Pyuridae	Pyuridae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Chordata;Ascidiacea;Stolidobranchia;Styelidae	Styelidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Echinodermata;Asteroidea;Forcipulatida;Asteriidae	Asteriidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Echinodermata;Ophiuroidea;Amphilepidida;Amphiuridae	Amphiuridae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	12	62	9	8	13	30	31	1	5	12	0	0	25	1	0	4	14	0	0	0	3
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Echinodermata;Ophiuroidea;Amphilepidida;Ophiotrichidae	Ophiotrichidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Echinodermata;Ophiuroidea;Amphilepidida;Ophiodermatidae	Ophiodermatidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Echinodermata;Echinoidea;Spatangoida;Loveniidae	Loveniidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Echinodermata;Echinoidea;Camarodonta;Echinidae	Echinidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Echinodermata;Echinoidea;Camarodonta;Parechinidae	Parechinidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Branchiopoda;Diplostraca;Sididae	Sididae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Branchiopoda;Diplostraca;Podonidae	Podonidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Hexanauplia;Calanoida;Clausocalanidae	Clausocalanidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Hexanauplia;Calanoida;Paracalanidae	Paracalanidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Hexanauplia;Calanoida;Scolecitrichidae	Scolecitrichidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Hexanauplia;Calanoida;Temoridae	Temoridae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Hexanauplia;Cyclopoida;Oithonidae	Oithonidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Hexanauplia;Harpacticoida;Cletodidae	Cletodidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Hexanauplia;Harpacticoida;Miraciidae	Miraciidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Hexanauplia;Harpacticoida;Harpacticoida sp. 09PROBE	Harpacticoida sp. 09PROBE	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Malacostraca;Decapoda;Galatheidae	Galatheidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Malacostraca;Decapoda;Porcellanidae	Porcellanidae	14	3	6	11	1	2	0	14	0	0	12	1	1	0	11	2	0	3	5	0	5	1	0	2	12	0	9	0	1	6	0	1	0	12	0	0	1	2
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Malacostraca;Decapoda;Paguridae	Paguridae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Malacostraca;Decapoda;Goneplacidae	Goneplacidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Malacostraca;Decapoda;Inachidae	Inachidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Malacostraca;Decapoda;Majidae	Majidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Malacostraca;Decapoda;Pilumnidae	Pilumnidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Malacostraca;Decapoda;Polybiidae	Polybiidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Malacostraca;Decapoda;Xanthidae	Xanthidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	31	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Malacostraca;Decapoda;Alpheidae	Alpheidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Malacostraca;Decapoda;Hippolytidae	Hippolytidae	0	0	0	0	0	78	256	1157	48	1328	851	819	63	50	827	578	0	35	1354	0	12	641	205	26	77	945	265	16	123	2318	20	0	75	3132	22	13	26	955
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Malacostraca;Decapoda;Palaemonidae	Palaemonidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Malacostraca;Decapoda;Pandalidae	Pandalidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Malacostraca;Amphipoda;Stenothoidae	Stenothoidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Malacostraca;Amphipoda;Atylidae	Atylidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Malacostraca;Amphipoda;Dexaminidae	Dexaminidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Malacostraca;Amphipoda;Caprellidae	Caprellidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Malacostraca;Amphipoda;Ischyroceridae	Ischyroceridae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Malacostraca;Amphipoda;Photidae	Photidae	357	2056	1228	573	744	0	1	0	2	1	0	1	4	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	29	2	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Malacostraca;Amphipoda;Ampithoidae	Ampithoidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Malacostraca;Amphipoda;Aoridae	Aoridae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Malacostraca;Amphipoda;Calliopiidae	Calliopiidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Malacostraca;Amphipoda;Maeridae	Maeridae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Malacostraca;Amphipoda;Melitidae	Melitidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Malacostraca;Isopoda;Sphaeromatidae	Sphaeromatidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Malacostraca;Tanaidacea;Apseudidae	Apseudidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Malacostraca;Tanaidacea;Leptocheliidae	Leptocheliidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Thecostraca;Balanomorpha;Balanidae	Balanidae	535	2	7	22	1901	0	0	0	8	5	0	0	9	0	0	47	16	11	0	841	5	2	76	2029	190	1	173	0	0	0	0	0	0	0	0	5	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Thecostraca;Verrucomorpha;Verrucidae	Verrucidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Pycnogonida;Pantopoda;Ammotheidae	Ammotheidae	1	13	37	0	11	0	2	9	1	1	3	0	1	0	0	0	0	16	17	2	20	28	3	4	7	45	10	0	0	1	0	0	5	8	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Pycnogonida;Pantopoda;Endeidae	Endeidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Annelida;Polychaeta;Protodrilidae;Protodrilidae (family)	Protodrilidae (family)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Annelida;Polychaeta;Polychaeta sp. BOLD;Polychaeta sp. BOLD (family)	Polychaeta sp. BOLD (family)	0	1	5	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7	0	0	0	2	0	0	1	0	1
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Annelida;Polychaeta;Eunicida;Eunicidae	Eunicidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Annelida;Polychaeta;Phyllodocida;Glyceridae	Glyceridae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Annelida;Polychaeta;Phyllodocida;Hesionidae	Hesionidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Annelida;Polychaeta;Phyllodocida;Nephtyidae	Nephtyidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Annelida;Polychaeta;Phyllodocida;Nereididae	Nereididae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Annelida;Polychaeta;Phyllodocida;Phyllodocidae	Phyllodocidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	38	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Annelida;Polychaeta;Phyllodocida;Polynoidae	Polynoidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Annelida;Polychaeta;Phyllodocida;Sphaerodoridae	Sphaerodoridae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Annelida;Polychaeta;Phyllodocida;Syllidae	Syllidae	0	0	0	0	0	0	2	4	0	12	4	0	0	0	1	0	0	6	5	0	0	1	0	2	3	0	1	0	15	39	0	0	100	13	0	0	3	5
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Annelida;Polychaeta;Chaetopteridae;Chaetopteridae (family)	Chaetopteridae (family)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Annelida;Polychaeta;Sabellida;Sabellariidae	Sabellariidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Annelida;Polychaeta;Sabellida;Serpulidae	Serpulidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Annelida;Polychaeta;Spionida;Magelonidae	Magelonidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Annelida;Polychaeta;Spionida;Spionidae	Spionidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Annelida;Polychaeta;Terebellida;Cirratulidae	Cirratulidae	0	0	0	0	1	1	0	0	0	21	31	1	1	0	14	1	0	2	2	1	5	4	1	1	1	1	0	1	2	0	0	0	57	11	1	0	1	3
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Annelida;Polychaeta;Arenicolidae;Arenicolidae (family)	Arenicolidae (family)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Annelida;Polychaeta;Capitellidae;Capitellidae (family)	Capitellidae (family)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Annelida;Polychaeta;Paraonidae;Paraonidae (family)	Paraonidae (family)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Bryozoa;Gymnolaemata;Cheilostomatida;Candidae	Candidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Bryozoa;Gymnolaemata;Cheilostomatida;Hippothoidae	Hippothoidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Bryozoa;Gymnolaemata;Cheilostomatida;Bitectiporidae	Bitectiporidae	0	0	0	0	0	413	5	0	1287	9	4	117	431	0	0	0	0	4	0	150	7	5	33	461	2	3	2	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Bryozoa;Gymnolaemata;Ctenostomatida;Vesiculariidae	Vesiculariidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Bivalvia;Cardiida;Scrobiculariidae	Scrobiculariidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Bivalvia;Cardiida;Semelidae	Semelidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Bivalvia;Myida;Hiatellidae	Hiatellidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Bivalvia;Venerida;Veneridae	Veneridae	0	0	6	0	1	1	0	0	0	2	0	1	1	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Bivalvia;Limoida;Limidae	Limidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Bivalvia;Mytiloida;Mytilidae	Mytilidae	24	88	10	4	91	3	8	6	6	129	26	3	14	23	0	0	5	1	13	30	3	0	5	28	0	1	2	0	2	0	0	2	2	0	0	14	0	1
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Bivalvia;Ostreida;Gryphaeidae	Gryphaeidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Bivalvia;Ostreida;Ostreidae	Ostreidae	36	0	0	0	210	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Cephalopoda;Sepiida;Sepiidae	Sepiidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Gastropoda;Cerithiidae;Cerithiidae (family)	Cerithiidae (family)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Gastropoda;Cerithiopsidae;Cerithiopsidae (family)	Cerithiopsidae (family)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Gastropoda;Littorinimorpha;Capulidae	Capulidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Gastropoda;Littorinimorpha;Naticidae	Naticidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Gastropoda;Littorinimorpha;Rissoidae	Rissoidae	0	0	0	0	0	11	7	12	34	12	1	44	23	9	10	54	0	1	0	0	6	0	1	0	1	0	6	0	38	6	1	0	29	0	2	1	7	4
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Gastropoda;Littorinimorpha;Eulimidae	Eulimidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Gastropoda;Littorinimorpha;Triviidae	Triviidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Gastropoda;Neogastropoda;Nassariidae	Nassariidae	0	0	4	1	1	1	0	5	0	1	0	11	0	0	3	3	0	0	6	4	0	7	42	3	0	1	45	1	0	0	2	0	7	47	0	0	0	12
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Gastropoda;Neogastropoda;Raphitomidae	Raphitomidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Gastropoda;Neogastropoda;Muricidae	Muricidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	28	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Gastropoda;Plakobranchidae;Plakobranchidae (family)	Plakobranchidae (family)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Gastropoda;Nudibranchia;Polyceridae	Polyceridae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Gastropoda;Nudibranchia;Aeolidiidae	Aeolidiidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Gastropoda;Nudibranchia;Facelinidae	Facelinidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Gastropoda;Nudibranchia;Dotidae	Dotidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Gastropoda;Nudibranchia;Eubranchidae	Eubranchidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Gastropoda;Nudibranchia;Trinchesiidae	Trinchesiidae	0	0	7	53	7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Gastropoda;Pleurobranchida;Pleurobranchidae	Pleurobranchidae	0	0	0	1	0	0	1	0	0	2	3	0	0	6	6	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Gastropoda;Patellidae;Patellidae (family)	Patellidae (family)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Gastropoda;Lepetellida;Haliotidae	Haliotidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Gastropoda;Trochida;Calliostomatidae	Calliostomatidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Gastropoda;Trochida;Phasianellidae	Phasianellidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Polyplacophora;Chitonida;Acanthochitonidae	Acanthochitonidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Polyplacophora;Chitonida;Callochitonidae	Callochitonidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Nemertea;Enopla;Monostilifera;Emplectonematidae	Emplectonematidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Nemertea;Enopla;Monostilifera;Oerstediidae	Oerstediidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Nemertea;Enopla;Monostilifera;Tetrastemmatidae	Tetrastemmatidae	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	5	1	1	0	24	0	0	101	0	1	0	6	0	1	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Nemertea;Palaeonemertea;Cephalotrichidae;Cephalotrichidae (family)	Cephalotrichidae (family)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Nemertea;Pilidiophora;Heteronemertea;Lineidae	Lineidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Platyhelminthes;Rhabditophora;Macrostomida;Microstomidae	Microstomidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Platyhelminthes;Rhabditophora;Polycladida;Prosthiostomidae	Prosthiostomidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Cnidaria;Anthozoa;Actiniaria;Aiptasiidae	Aiptasiidae	173	123	950	571	6741	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Cnidaria;Anthozoa;Corallimorpharia;Corallimorphidae	Corallimorphidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Cnidaria;Anthozoa;Zoantharia;Parazoanthidae	Parazoanthidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Cnidaria;Hydrozoa;Anthoathecata;Tubulariidae	Tubulariidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Cnidaria;Hydrozoa;Anthoathecata;Bougainvilliidae	Bougainvilliidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Cnidaria;Hydrozoa;Anthoathecata;Eudendriidae	Eudendriidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Cnidaria;Hydrozoa;Anthoathecata;Pandeidae	Pandeidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Cnidaria;Hydrozoa;Leptothecata;Clytiidae	Clytiidae	43	23	161	300	95	97	17	2	2	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	5	1	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Cnidaria;Hydrozoa;Leptothecata;Obeliidae	Obeliidae	2	9	29	46	215	0	0	0	0	0	0	0	0	0	0	0	0	11	10	92	274	116	33	11	34	11	2	0	0	0	0	0	1	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Cnidaria;Hydrozoa;Leptothecata;Aglaopheniidae	Aglaopheniidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Cnidaria;Hydrozoa;Leptothecata;Campanulariidae	Campanulariidae	2	0	2	7	5	74	102	7	261	96	13	22	700	162	20	32	0	26	3	16	19	3	5	1	4	2	0	3	7	0	0	13	156	27	0	3	1	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Cnidaria;Hydrozoa;Leptothecata;Halopterididae	Halopterididae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Cnidaria;Hydrozoa;Leptothecata;Plumulariidae	Plumulariidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Cnidaria;Hydrozoa;Siphonophorae;Diphyidae	Diphyidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Porifera;Demospongiae;Biemnida;Biemnidae	Biemnidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Porifera;Demospongiae;Clionaida;Clionaidae	Clionaidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Porifera;Demospongiae;Suberitida;Halichondriidae	Halichondriidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Porifera;Demospongiae;Suberitida;Suberitidae	Suberitidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	11	4	0	0	0	3	11	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Porifera;Demospongiae;Dendroceratida;Dictyodendrillidae	Dictyodendrillidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Porifera;Demospongiae;Dendroceratida;Dendroceratida sp. 3 JV	Dendroceratida sp. 3 JV	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	4	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+family	Cellular organisms;Eukaryota;Amorphea;Metazoa;Porifera;Homoscleromorpha;Homosclerophorida;Oscarellidae	Oscarellidae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Chordata;Actinopteri;Labriformes;Labridae;Symphodus	Symphodus	0	0	0	0	0	0	0	50	0	1	55	15	0	0	62	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Chordata;Actinopteri;Perciformes;Serranidae;Serranus	Serranus	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Chordata;Actinopteri;Gobiiformes;Gobiidae;Crystallogobius	Crystallogobius	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Chordata;Actinopteri;Blenniiformes;Gobiesocidae;Apletodon	Apletodon	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Chordata;Actinopteri;Blenniiformes;Gobiesocidae;Lepadogaster	Lepadogaster	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Chordata;Actinopteri;Gadiformes;Gaidropsaridae;Gaidropsarus	Gaidropsarus	0	0	0	0	0	0	27	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	1049	0	0	0	1222	0	9	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Chordata;Actinopteri;Clupeiformes;Engraulidae;Engraulis	Engraulis	0	0	2	0	2	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Chordata;Chondrichthyes;Squaliformes;Centrophoridae;Deania	Deania	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Chordata;Ascidiacea;Aplousobranchia;Didemnidae;Diplosoma	Diplosoma	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Chordata;Ascidiacea;Aplousobranchia;Didemnidae;Lissoclinum	Lissoclinum	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Chordata;Ascidiacea;Phlebobranchia;Ascidiidae;Ascidia	Ascidia	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Chordata;Ascidiacea;Phlebobranchia;Ascidiidae;Phallusia	Phallusia	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Chordata;Ascidiacea;Stolidobranchia;Pyuridae;Microcosmus	Microcosmus	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Chordata;Ascidiacea;Stolidobranchia;Styelidae;Botryllus	Botryllus	0	0	0	0	0	0	47	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	33	268	0	1	4	313	7	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Echinodermata;Asteroidea;Forcipulatida;Asteriidae;Marthasterias	Marthasterias	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Echinodermata;Ophiuroidea;Amphilepidida;Amphiuridae;Amphipholis	Amphipholis	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	3	0	6	0	3	0	0	0	0	0	0	0	1	0	2	0	2	0	0	4
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Echinodermata;Ophiuroidea;Amphilepidida;Ophiotrichidae;Ophiothrix	Ophiothrix	0	0	0	1	1	0	4	0	0	0	0	0	0	13	16	229	0	2	5	0	0	6	23	0	0	0	0	0	0	0	0	21	22	2	146	0	6	3
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Echinodermata;Ophiuroidea;Amphilepidida;Ophiodermatidae;Ophioderma	Ophioderma	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Echinodermata;Echinoidea;Spatangoida;Loveniidae;Echinocardium	Echinocardium	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Echinodermata;Echinoidea;Camarodonta;Echinidae;Paracentrotus	Paracentrotus	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Echinodermata;Echinoidea;Camarodonta;Parechinidae;Psammechinus	Psammechinus	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Branchiopoda;Diplostraca;Sididae;Penilia	Penilia	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Branchiopoda;Diplostraca;Podonidae;Evadne	Evadne	0	0	0	3	3	0	5	0	0	0	0	0	0	1	0	0	0	0	0	0	2	0	0	0	1	0	0	0	15	7	0	0	11	5	0	0	2	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Hexanauplia;Calanoida;Clausocalanidae;Clausocalanus	Clausocalanus	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Hexanauplia;Calanoida;Clausocalanidae;Pseudocalanus	Pseudocalanus	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Hexanauplia;Calanoida;Paracalanidae;Paracalanus	Paracalanus	0	0	0	2	0	0	8	0	0	16	1	0	0	20	1	0	0	0	1	0	0	0	0	10	0	0	0	0	1	0	0	0	5	0	0	1	5	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Hexanauplia;Calanoida;Scolecitrichidae;Scolecithricella	Scolecithricella	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Hexanauplia;Calanoida;Temoridae;Temora	Temora	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Hexanauplia;Cyclopoida;Oithonidae;Oithona	Oithona	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Hexanauplia;Harpacticoida;Cletodidae;Cletodes	Cletodes	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Hexanauplia;Harpacticoida;Miraciidae;Amphiascopsis	Amphiascopsis	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Hexanauplia;Harpacticoida;Harpacticoida sp. 09PROBE;Harpacticoida sp. 09PROBE (genus)	Harpacticoida sp. 09PROBE (genus)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Malacostraca;Decapoda;Galatheidae;Galathea	Galathea	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Malacostraca;Decapoda;Porcellanidae;Pisidia	Pisidia	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	3	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Malacostraca;Decapoda;Porcellanidae;Porcellana	Porcellana	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Malacostraca;Decapoda;Paguridae;Anapagurus	Anapagurus	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Malacostraca;Decapoda;Paguridae;Pagurus	Pagurus	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Malacostraca;Decapoda;Goneplacidae;Goneplax	Goneplax	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Malacostraca;Decapoda;Inachidae;Macropodia	Macropodia	0	0	0	0	0	9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	52	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Malacostraca;Decapoda;Majidae;Eurynome	Eurynome	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	27	1	0	43	5	3	0	18	13	3	2	270	7	0	0	326	3	5	0	20
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Malacostraca;Decapoda;Pilumnidae;Pilumnus	Pilumnus	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Malacostraca;Decapoda;Polybiidae;Necora	Necora	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Malacostraca;Decapoda;Alpheidae;Athanas	Athanas	0	0	0	0	0	0	0	6	0	0	19	1	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Malacostraca;Decapoda;Alpheidae;Synalpheus	Synalpheus	0	0	0	0	0	0	2	8	1	2	36	3	0	0	38	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Malacostraca;Decapoda;Hippolytidae;Hippolyte	Hippolyte	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Malacostraca;Decapoda;Hippolytidae;Thoralus	Thoralus	0	0	0	0	0	4	3	31	0	54	14	19	3	2	9	17	0	2	7	0	0	5	0	0	0	3	5	0	2	34	0	0	3	44	3	0	0	4
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Malacostraca;Decapoda;Palaemonidae;Periclimenes	Periclimenes	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Malacostraca;Decapoda;Pandalidae;Pandalina	Pandalina	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Malacostraca;Amphipoda;Stenothoidae;Stenothoe	Stenothoe	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Malacostraca;Amphipoda;Atylidae;Nototropis	Nototropis	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Malacostraca;Amphipoda;Dexaminidae;Dexamine	Dexamine	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	2	0	0	6	4	1	0	7	0	0	0	1	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Malacostraca;Amphipoda;Caprellidae;Caprella	Caprella	7	160	69	52	11	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Malacostraca;Amphipoda;Caprellidae;Pseudoprotella	Pseudoprotella	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Malacostraca;Amphipoda;Ischyroceridae;Jassa	Jassa	112	2447	4572	736	395	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Malacostraca;Amphipoda;Photidae;Gammaropsis	Gammaropsis	230	833	1418	443	444	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Malacostraca;Amphipoda;Ampithoidae;Ampithoe	Ampithoe	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Malacostraca;Amphipoda;Aoridae;Microdeutopus	Microdeutopus	0	0	0	0	0	0	0	0	0	2	0	0	0	1	2	0	0	4	1	0	0	4	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Malacostraca;Amphipoda;Calliopiidae;Apherusa	Apherusa	0	0	0	0	0	0	0	9	0	1	1	0	0	0	1	0	0	0	1	0	0	3	0	0	0	0	0	0	5	1	0	0	4	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Malacostraca;Amphipoda;Maeridae;Elasmopus	Elasmopus	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Malacostraca;Amphipoda;Melitidae;Gammarella	Gammarella	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Malacostraca;Isopoda;Sphaeromatidae;Cymodoce	Cymodoce	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Malacostraca;Isopoda;Sphaeromatidae;Dynamene	Dynamene	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Malacostraca;Tanaidacea;Apseudidae;Apseudes	Apseudes	0	0	0	0	0	0	0	0	0	0	0	0	0	3	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Malacostraca;Tanaidacea;Leptocheliidae;Leptochelia	Leptochelia	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Thecostraca;Balanomorpha;Balanidae;Balanus	Balanus	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Thecostraca;Verrucomorpha;Verrucidae;Verruca	Verruca	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Pycnogonida;Pantopoda;Endeidae;Endeis	Endeis	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Annelida;Polychaeta;Protodrilidae;Protodrilidae (family);Protodrilus	Protodrilus	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Annelida;Polychaeta;Eunicida;Eunicidae;Lysidice	Lysidice	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Annelida;Polychaeta;Phyllodocida;Glyceridae;Glycera	Glycera	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Annelida;Polychaeta;Phyllodocida;Hesionidae;Nereimyra	Nereimyra	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Annelida;Polychaeta;Phyllodocida;Nephtyidae;Nephtys	Nephtys	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Annelida;Polychaeta;Phyllodocida;Nereididae;Nereis	Nereis	0	0	21	1	12	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	20	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Annelida;Polychaeta;Phyllodocida;Nereididae;Platynereis	Platynereis	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Annelida;Polychaeta;Phyllodocida;Phyllodocidae;Eumida	Eumida	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	9	0	0	2	0	0	0	4	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Annelida;Polychaeta;Phyllodocida;Polynoidae;Alentia	Alentia	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Annelida;Polychaeta;Phyllodocida;Polynoidae;Polynoidae sp. BOLD	Polynoidae sp. BOLD	248	2794	504	70	662	111	35	136	78	43	103	28	35	26	49	53	18	481	604	116	249	592	186	183	171	303	161	46	49	204	1	9	23	389	16	13	35	139
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Annelida;Polychaeta;Phyllodocida;Sphaerodoridae;Ephesiella	Ephesiella	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	38	0	0	0	1	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Annelida;Polychaeta;Phyllodocida;Syllidae;Amblyosyllis	Amblyosyllis	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Annelida;Polychaeta;Phyllodocida;Syllidae;Eurysyllis	Eurysyllis	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Annelida;Polychaeta;Phyllodocida;Syllidae;Myrianida	Myrianida	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Annelida;Polychaeta;Phyllodocida;Syllidae;Odontosyllis	Odontosyllis	0	0	0	0	0	0	2	1	0	6	0	0	0	14	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	30	0	0	0	2	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Annelida;Polychaeta;Phyllodocida;Syllidae;Proceraea	Proceraea	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Annelida;Polychaeta;Phyllodocida;Syllidae;Procerastea	Procerastea	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Annelida;Polychaeta;Phyllodocida;Syllidae;Syllides	Syllides	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Annelida;Polychaeta;Phyllodocida;Syllidae;Syllis	Syllis	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	270	0	1	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Annelida;Polychaeta;Phyllodocida;Syllidae;Virchowia	Virchowia	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Annelida;Polychaeta;Chaetopteridae;Chaetopteridae (family);Chaetopterus	Chaetopterus	0	0	0	0	0	0	94	44	1	80	210	31	158	18	158	486	20	12	0	0	36	17	2141	0	1	0	0	0	0	0	0	0	22	0	49	0	10	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Annelida;Polychaeta;Sabellida;Sabellariidae;Sabellaria	Sabellaria	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Annelida;Polychaeta;Sabellida;Serpulidae;Hydroides	Hydroides	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Annelida;Polychaeta;Sabellida;Serpulidae;Pomatoceros	Pomatoceros	6	0	3	2	3	15	1	0	4	0	0	0	8	0	0	0	3	1	1	50	2	1	1	72	0	1	9	92	0	1	0	2	2	0	0	9	1	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Annelida;Polychaeta;Spionida;Magelonidae;Magelona	Magelona	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	10	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Annelida;Polychaeta;Spionida;Spionidae;Aonides	Aonides	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Annelida;Polychaeta;Spionida;Spionidae;Laonice	Laonice	0	0	0	54	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	6	3	0	0	0	0	0	392	60	355	0	0	8	6	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Annelida;Polychaeta;Terebellida;Cirratulidae;Ctenodrilus	Ctenodrilus	7	5	72	217	88	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Annelida;Polychaeta;Arenicolidae;Arenicolidae (family);Arenicola	Arenicola	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	5	4	23	28	9	4	28	5	4	1	0	9	0	0	0	6	0	0	4	1	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Annelida;Polychaeta;Capitellidae;Capitellidae (family);Capitella	Capitella	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Annelida;Polychaeta;Paraonidae;Paraonidae (family);Paraonis	Paraonis	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Bryozoa;Gymnolaemata;Cheilostomatida;Candidae;Scrupocellaria	Scrupocellaria	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Bryozoa;Gymnolaemata;Cheilostomatida;Hippothoidae;Celleporella	Celleporella	0	0	0	2	1	2	2	0	14	0	5	8	45	7	0	11	4	85	30	58	45	9	16	29	18	5	1	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Bryozoa;Gymnolaemata;Ctenostomatida;Vesiculariidae;Amathia	Amathia	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Bivalvia;Cardiida;Scrobiculariidae;Scrobicularia	Scrobicularia	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Bivalvia;Cardiida;Semelidae;Abra	Abra	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Bivalvia;Myida;Hiatellidae;Hiatella	Hiatella	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Bivalvia;Venerida;Veneridae;Dosinia	Dosinia	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Bivalvia;Limoida;Limidae;Limaria	Limaria	0	0	0	0	0	0	0	8	0	9	5	2	0	2	12	29	0	1	0	0	0	0	0	0	0	0	0	0	3	2	9	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Bivalvia;Mytiloida;Mytilidae;Musculus	Musculus	38	213	56	9	95	4	4	0	11	20	4	2	5	7	2	3	12	1	17	34	1	0	20	16	0	15	37	2	0	0	0	0	5	45	0	3	0	1
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Bivalvia;Mytiloida;Mytilidae;Modiolus	Modiolus	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Bivalvia;Mytiloida;Mytilidae;Mytilus	Mytilus	20	7	7	3	1400	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Bivalvia;Ostreida;Gryphaeidae;Neopycnodonte	Neopycnodonte	3	0	0	0	0	2	0	0	4	0	0	0	1	0	0	0	3	0	0	10	0	0	0	5	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Bivalvia;Ostreida;Ostreidae;Ostrea	Ostrea	0	0	0	0	189	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Cephalopoda;Sepiida;Sepiidae;Sepia	Sepia	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Gastropoda;Cerithiidae;Cerithiidae (family);Bittium	Bittium	0	0	0	2	0	5	4	4	2	26	16	24	15	22	5	13	1	5	7	1	0	0	83	0	0	1	63	1	0	0	34	0	4	121	22	5	6	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Gastropoda;Cerithiopsidae;Cerithiopsidae (family);Cerithiopsis	Cerithiopsis	0	0	0	0	0	0	0	0	0	0	0	0	9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Gastropoda;Littorinimorpha;Capulidae;Capulus	Capulus	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Gastropoda;Littorinimorpha;Naticidae;Euspira	Euspira	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Gastropoda;Littorinimorpha;Rissoidae;Alvania	Alvania	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Gastropoda;Littorinimorpha;Rissoidae;Pusillina	Pusillina	0	0	4	14	1	20	29	106	8	116	46	45	29	34	44	17	0	1	0	0	2	0	1	0	0	0	1	3	48	120	0	0	28	52	0	14	6	5
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Gastropoda;Littorinimorpha;Eulimidae;Vitreolina	Vitreolina	0	0	0	0	0	0	12	23	0	43	22	0	0	15	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	28	13	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Gastropoda;Littorinimorpha;Triviidae;Trivia	Trivia	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Gastropoda;Neogastropoda;Nassariidae;Tritia	Tritia	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Gastropoda;Neogastropoda;Raphitomidae;Leufroyia	Leufroyia	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Gastropoda;Neogastropoda;Muricidae;Ocenebra	Ocenebra	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Gastropoda;Neogastropoda;Muricidae;Ocinebrina	Ocinebrina	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Gastropoda;Plakobranchidae;Plakobranchidae (family);Elysia	Elysia	0	0	0	0	0	0	4	0	0	4	0	1	0	11	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Gastropoda;Nudibranchia;Polyceridae;Polycera	Polycera	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Gastropoda;Nudibranchia;Aeolidiidae;Berghia	Berghia	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Gastropoda;Nudibranchia;Aeolidiidae;Spurilla	Spurilla	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Gastropoda;Nudibranchia;Facelinidae;Facelina	Facelina	0	0	0	0	1	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	4	1	1	0	0	0	1	6	0	4	0	0	1	9	0	0	0	1
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Gastropoda;Nudibranchia;Facelinidae;Favorinus	Favorinus	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Gastropoda;Nudibranchia;Dotidae;Doto	Doto	49	554	344	290	460	0	1	0	0	2	0	0	0	0	0	0	0	7	103	0	11	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Gastropoda;Nudibranchia;Eubranchidae;Amphorina	Amphorina	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Gastropoda;Nudibranchia;Trinchesiidae;Catriona	Catriona	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	12	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Gastropoda;Nudibranchia;Trinchesiidae;Trinchesia	Trinchesia	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	6	0	1	0	0	0	0	2	0	0	0	0	0	14	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Gastropoda;Pleurobranchida;Pleurobranchidae;Berthella	Berthella	0	0	0	0	0	62	5	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	9	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Gastropoda;Patellidae;Patellidae (family);Patella	Patella	0	0	0	0	0	0	0	0	2	0	0	0	11	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Gastropoda;Lepetellida;Haliotidae;Haliotis	Haliotis	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Gastropoda;Trochida;Calliostomatidae;Calliostoma	Calliostoma	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Gastropoda;Trochida;Phasianellidae;Tricolia	Tricolia	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Polyplacophora;Chitonida;Acanthochitonidae;Acanthochitona	Acanthochitona	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Polyplacophora;Chitonida;Callochitonidae;Callochiton	Callochiton	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Nemertea;Enopla;Monostilifera;Emplectonematidae;Emplectonema	Emplectonema	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Nemertea;Enopla;Monostilifera;Oerstediidae;Oerstedia	Oerstedia	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Nemertea;Palaeonemertea;Cephalotrichidae;Cephalotrichidae (family);Cephalothrix	Cephalothrix	0	0	0	0	0	0	0	0	0	9	0	0	1	2	1	0	2	7	7	4	0	4	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Nemertea;Pilidiophora;Heteronemertea;Lineidae;Micrura	Micrura	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	34	3	0	0	0	0	0	0	0	0	0	20	2	0	0	22	17	0	0	3	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Nemertea;Pilidiophora;Heteronemertea;Lineidae;Siphonenteron	Siphonenteron	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Platyhelminthes;Rhabditophora;Macrostomida;Microstomidae;Microstomum	Microstomum	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Platyhelminthes;Rhabditophora;Polycladida;Prosthiostomidae;Prosthiostomum	Prosthiostomum	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Cnidaria;Anthozoa;Actiniaria;Aiptasiidae;Exaiptasia	Exaiptasia	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Cnidaria;Anthozoa;Corallimorpharia;Corallimorphidae;Corynactis	Corynactis	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Cnidaria;Anthozoa;Zoantharia;Parazoanthidae;Isozoanthus	Isozoanthus	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Cnidaria;Hydrozoa;Anthoathecata;Tubulariidae;Ectopleura	Ectopleura	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Cnidaria;Hydrozoa;Anthoathecata;Bougainvilliidae;Bougainvillia	Bougainvillia	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Cnidaria;Hydrozoa;Anthoathecata;Bougainvilliidae;Lizzia	Lizzia	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Cnidaria;Hydrozoa;Anthoathecata;Eudendriidae;Eudendrium	Eudendrium	18	31	39	107	461	1	0	0	0	0	0	0	0	0	0	0	0	41	8	2	16	2	0	45	29	5	1	0	0	0	0	0	2	2	0	0	2	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Cnidaria;Hydrozoa;Anthoathecata;Pandeidae;Amphinema	Amphinema	0	2	0	23	59	0	0	0	0	0	0	0	0	0	0	0	0	12	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Cnidaria;Hydrozoa;Leptothecata;Clytiidae;Clytia	Clytia	1	0	0	8	0	7	9	1	28	2	3	3	25	4	0	2	0	19	2	0	6	1	1	28	10	0	1	108	38	18	1	27	75	12	0	111	7	2
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Cnidaria;Hydrozoa;Leptothecata;Obeliidae;Obelia	Obelia	0	0	0	32	1	0	2	0	0	0	0	0	0	0	0	0	0	1	0	7	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Cnidaria;Hydrozoa;Leptothecata;Aglaopheniidae;Aglaophenia	Aglaophenia	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	13	1	1	0	1	0	0	0	0	0	0	151	36	7	2	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Cnidaria;Hydrozoa;Leptothecata;Campanulariidae;Campanularia	Campanularia	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Cnidaria;Hydrozoa;Leptothecata;Campanulariidae;Orthopyxis	Orthopyxis	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	1	0	0	0	2	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Cnidaria;Hydrozoa;Leptothecata;Halopterididae;Halopteris	Halopteris	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Cnidaria;Hydrozoa;Leptothecata;Plumulariidae;Plumularia	Plumularia	41	239	1238	1202	586	13	27	25	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	3	15	0	0	2	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Cnidaria;Hydrozoa;Siphonophorae;Diphyidae;Muggiaea	Muggiaea	1	0	1	14	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Porifera;Demospongiae;Biemnida;Biemnidae;Biemna	Biemna	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Porifera;Demospongiae;Clionaida;Clionaidae;Cliona	Cliona	0	0	0	0	0	0	53	2	0	64	0	1	2	35	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Porifera;Demospongiae;Suberitida;Halichondriidae;Halichondria	Halichondria	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Porifera;Demospongiae;Dendroceratida;Dictyodendrillidae;Igernella	Igernella	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8	0	0	0	0	0	0	0	0
+genus	Cellular organisms;Eukaryota;Amorphea;Metazoa;Porifera;Homoscleromorpha;Homosclerophorida;Oscarellidae;Oscarella	Oscarella	0	0	0	0	0	373	17	2	8	17	75	7	134	65	17	2	9	28	15	29	0	3	0	28	6	1	1	308	11	25	0	10	5	9	0	266	2	4
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Chordata;Actinopteri;Perciformes;Serranidae;Serranus;Serranus cabrilla	Serranus cabrilla	0	0	0	0	0	0	12	19	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Chordata;Actinopteri;Gobiiformes;Gobiidae;Crystallogobius;Crystallogobius linearis	Crystallogobius linearis	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	14	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Chordata;Actinopteri;Blenniiformes;Gobiesocidae;Apletodon;Apletodon dentatus	Apletodon dentatus	0	0	0	0	0	0	0	462	0	2	57	2	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	1	31	0	0	0	0	0	0	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Chordata;Actinopteri;Blenniiformes;Gobiesocidae;Lepadogaster;Lepadogaster candolii	Lepadogaster candolii	0	0	0	0	0	0	2	0	2	0	0	8612	35	0	0	1332	0	0	0	0	0	0	0	0	0	0	918	0	1	0	0	0	0	0	2459	0	0	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Chordata;Actinopteri;Gadiformes;Gaidropsaridae;Gaidropsarus;Gaidropsarus vulgaris	Gaidropsarus vulgaris	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	260	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Chordata;Actinopteri;Clupeiformes;Engraulidae;Engraulis;Engraulis encrasicolus	Engraulis encrasicolus	0	0	9	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	2	0	0	0	0	0	0	1	72	48
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Chordata;Chondrichthyes;Squaliformes;Centrophoridae;Deania;Deania profundorum	Deania profundorum	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	5	3	1	7	26	1	0	3	0	1
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Chordata;Ascidiacea;Aplousobranchia;Didemnidae;Diplosoma;Diplosoma listerianum	Diplosoma listerianum	13	6	25	12	91	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Chordata;Ascidiacea;Aplousobranchia;Didemnidae;Lissoclinum;Lissoclinum perforatum	Lissoclinum perforatum	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	18	32	0	0	0	0	0	156	39	10	9	0	0	0	0	0	147	4	0	0	0	2
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Chordata;Ascidiacea;Phlebobranchia;Ascidiidae;Ascidia;Ascidia conchilega	Ascidia conchilega	0	0	0	0	0	7	0	0	1	2	0	7	0	0	0	0	1	0	0	2	0	0	3	7	0	0	0	0	0	0	0	0	3	0	0	0	0	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Chordata;Ascidiacea;Phlebobranchia;Ascidiidae;Ascidia;Ascidia mentula	Ascidia mentula	0	0	0	0	0	0	0	0	0	24	2	30	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Chordata;Ascidiacea;Stolidobranchia;Pyuridae;Microcosmus;Microcosmus squamiger	Microcosmus squamiger	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Chordata;Ascidiacea;Stolidobranchia;Styelidae;Botryllus;Botryllus schlosseri	Botryllus schlosseri	0	0	0	0	0	0	0	0	41	5	0	1	1	0	0	0	0	0	0	19	4	0	3	7	0	0	0	1	0	0	0	0	0	0	0	207	2	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Echinodermata;Asteroidea;Forcipulatida;Asteriidae;Marthasterias;Marthasterias glacialis	Marthasterias glacialis	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	48	75	0	0	0	0	0	0	0	0	0	0	0	0	0	8	0	9024	0	0	2
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Echinodermata;Ophiuroidea;Amphilepidida;Amphiuridae;Amphipholis;Amphipholis squamata	Amphipholis squamata	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	53	0	0	34	13	0	0	0	8
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Echinodermata;Ophiuroidea;Amphilepidida;Ophiodermatidae;Ophioderma;Ophioderma longicauda	Ophioderma longicauda	0	0	0	0	0	0	9	0	2	0	0	1	1	9	0	2339	0	0	0	0	0	0	0	0	0	0	0	0	1	0	7	0	0	0	0	0	0	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Echinodermata;Echinoidea;Spatangoida;Loveniidae;Echinocardium;Echinocardium cordatum	Echinocardium cordatum	0	2	17	7	8	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	7	0	0	0	13	27	0	0	0	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Echinodermata;Echinoidea;Camarodonta;Echinidae;Paracentrotus;Paracentrotus lividus	Paracentrotus lividus	0	0	0	0	0	48	1	7	0	0	0	0	0	1	2	444	0	0	0	0	0	1	0	0	0	0	0	3	4	5	4	1	31	3	0	2	0	1
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Echinodermata;Echinoidea;Camarodonta;Parechinidae;Psammechinus;Psammechinus miliaris	Psammechinus miliaris	4	0	42	2	8	0	1	0	0	0	0	30	3	0	0	0	0	8	25	3	2	137	7	1	29	18	23	0	0	55	1	0	4	56	0	0	0	12
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Branchiopoda;Diplostraca;Sididae;Penilia;Penilia avirostris	Penilia avirostris	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	7	0	1	0	0	0	0	0	0	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Hexanauplia;Calanoida;Clausocalanidae;Clausocalanus;Clausocalanus lividus	Clausocalanus lividus	0	0	0	0	0	0	0	0	0	0	0	0	0	45	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	1
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Hexanauplia;Calanoida;Clausocalanidae;Pseudocalanus;Pseudocalanus elongatus	Pseudocalanus elongatus	0	0	0	0	0	0	0	0	0	11	0	0	0	0	0	0	0	3	0	1	1	0	0	3	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Hexanauplia;Calanoida;Paracalanidae;Paracalanus;Paracalanus parvus	Paracalanus parvus	0	0	0	2	0	0	0	0	0	9	1	0	0	0	0	0	0	7	1	1	1	1	0	3	9	0	0	0	7	0	0	0	6	1	0	0	1	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Hexanauplia;Calanoida;Scolecitrichidae;Scolecithricella;Scolecithricella minor	Scolecithricella minor	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	1
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Hexanauplia;Calanoida;Temoridae;Temora;Temora stylifera	Temora stylifera	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	0	1	42	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Hexanauplia;Cyclopoida;Oithonidae;Oithona;Oithona similis	Oithona similis	0	0	1	6	0	0	0	0	0	0	0	1	0	3	0	0	2	2	1	4	0	0	0	2	2	0	0	0	10	2	0	0	4	0	0	0	4	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Hexanauplia;Harpacticoida;Cletodidae;Cletodes;Cletodes limicola	Cletodes limicola	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7	0	0	0	0	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Hexanauplia;Harpacticoida;Cletodidae;Cletodes;Cletodes tenuipes	Cletodes tenuipes	0	0	0	0	0	0	2	0	0	0	1	0	0	2	0	0	0	1	0	0	1	0	0	0	0	0	0	0	118	0	0	0	116	0	0	0	53	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Hexanauplia;Harpacticoida;Miraciidae;Amphiascopsis;Amphiascopsis cinctus	Amphiascopsis cinctus	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	3	0	0	0	0	0	0	0	10	0	0	0	5	0	0	0	0	1
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Malacostraca;Decapoda;Galatheidae;Galathea;Galathea nexa	Galathea nexa	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	11	13	10	0	0	1	0	0	0	7	0	0	0	17	0	4	0	1
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Malacostraca;Decapoda;Porcellanidae;Pisidia;Pisidia longicornis	Pisidia longicornis	587	156	130	237	44	112	7	519	53	17	162	45	96	4	140	17	18	130	48	90	148	48	93	109	143	27	186	5	0	51	0	4	35	251	0	14	1	15
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Malacostraca;Decapoda;Porcellanidae;Porcellana;Porcellana platycheles	Porcellana platycheles	0	0	0	0	0	17	0	77	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Malacostraca;Decapoda;Paguridae;Anapagurus;Anapagurus hyndmanni	Anapagurus hyndmanni	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	6	0	0	14	7	0	0	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Malacostraca;Decapoda;Paguridae;Pagurus;Pagurus cuanensis	Pagurus cuanensis	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	90	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Malacostraca;Decapoda;Goneplacidae;Goneplax;Goneplax rhomboides	Goneplax rhomboides	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	4	0	1	1	17	0	0	0	0	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Malacostraca;Decapoda;Majidae;Eurynome;Eurynome spinosa	Eurynome spinosa	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	37	0	2	31	13	8	2	38	19	5	0	306	31	0	12	426	19	4	0	46
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Malacostraca;Decapoda;Pilumnidae;Pilumnus;Pilumnus hirtellus	Pilumnus hirtellus	26562	33	67	239	29	20	12	883	45	45	1350	363	146	22	776	871	2	0	14	52	74	57	908	38	56	9	167	0	0	0	0	12	0	172	23	0	3	52
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Malacostraca;Decapoda;Polybiidae;Necora;Necora puber	Necora puber	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	231	0	2	18	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Malacostraca;Decapoda;Alpheidae;Athanas;Athanas nitescens	Athanas nitescens	0	0	0	0	0	0	0	23	0	0	130	18	3	0	8	18	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	8	0	0	0	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Malacostraca;Decapoda;Alpheidae;Synalpheus;Synalpheus gambarelloides	Synalpheus gambarelloides	0	0	0	0	0	0	54	287	1	36	357	30	8	20	215	30	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	4	0	0	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Malacostraca;Decapoda;Hippolytidae;Hippolyte;Hippolyte inermis	Hippolyte inermis	0	0	0	0	0	0	0	41	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Malacostraca;Decapoda;Hippolytidae;Hippolyte;Hippolyte varians	Hippolyte varians	0	0	0	0	0	0	9	94	0	11	624	64	0	0	91	14	0	5	120	0	0	36	4	1	5	17	103	0	0	0	0	0	0	66	1	0	0	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Malacostraca;Decapoda;Hippolytidae;Thoralus;Thoralus cranchii	Thoralus cranchii	0	0	0	0	0	5	2	76	1	16	35	34	3	4	25	39	0	0	13	1	0	9	0	1	0	2	7	1	23	54	3	0	4	41	0	3	0	7
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Malacostraca;Decapoda;Palaemonidae;Periclimenes;Periclimenes sagittifer	Periclimenes sagittifer	0	0	0	0	0	0	12	546	0	147	627	94	6	28	364	60	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Malacostraca;Decapoda;Palaemonidae;Periclimenes;Periclimenes scriptus	Periclimenes scriptus	0	0	0	0	0	0	0	33	0	64	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Malacostraca;Decapoda;Pandalidae;Pandalina;Pandalina brevirostris	Pandalina brevirostris	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	22	0	0	0	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Malacostraca;Amphipoda;Stenothoidae;Stenothoe;Stenothoe monoculoides	Stenothoe monoculoides	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4	0	0	0	0	0	0	0	0	0	0	0	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Malacostraca;Amphipoda;Atylidae;Nototropis;Nototropis guttatus	Nototropis guttatus	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7	0	0	0	0	0	0	0	0	0	0	0	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Malacostraca;Amphipoda;Dexaminidae;Dexamine;Dexamine spiniventris	Dexamine spiniventris	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	16	0	10	41	5	1	0	46	20	0	3	9	0	0	0	0	0	0	1	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Malacostraca;Amphipoda;Dexaminidae;Dexamine;Dexamine spinosa	Dexamine spinosa	0	0	0	0	0	29	34	1586	0	64	6	0	0	45	36	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Malacostraca;Amphipoda;Caprellidae;Caprella;Caprella danilevskii	Caprella danilevskii	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	3	0	0	1	0	0	1	3	3	0	4	1	0	0	0	0	0	0	0	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Malacostraca;Amphipoda;Caprellidae;Caprella;Caprella equilibra	Caprella equilibra	7	247	196	328	130	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Malacostraca;Amphipoda;Caprellidae;Caprella;Caprella penantis	Caprella penantis	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	4	0	0	0	0	0	0	0	0	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Malacostraca;Amphipoda;Caprellidae;Pseudoprotella;Pseudoprotella phasma	Pseudoprotella phasma	0	0	0	0	0	0	4	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	1	0	0	0	0	0	0	0	0	0	0	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Malacostraca;Amphipoda;Ischyroceridae;Jassa;Jassa slatteryi	Jassa slatteryi	491	14104	18771	2863	1256	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Malacostraca;Amphipoda;Photidae;Gammaropsis;Gammaropsis sp. LMBP26	Gammaropsis sp. LMBP26	27	56	119	30	11	0	0	0	0	0	0	0	0	0	0	0	1	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Malacostraca;Amphipoda;Ampithoidae;Ampithoe;Ampithoe rubricata	Ampithoe rubricata	0	0	0	0	0	1	0	1	0	0	5	0	3	5	1	0	0	0	0	0	0	0	0	0	0	2	6	0	0	0	0	0	0	0	0	0	0	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Malacostraca;Amphipoda;Aoridae;Microdeutopus;Microdeutopus sp. SFAM14	Microdeutopus sp. SFAM14	0	0	0	0	0	0	17	9	0	0	17	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	28	1	0	0	8	6
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Malacostraca;Amphipoda;Aoridae;Microdeutopus;Microdeutopus chelifer	Microdeutopus chelifer	0	0	0	0	0	4	26	85	7	40	21	9	73	82	43	20	1	53	56	3	22	40	3	2	55	62	7	0	4	2	0	0	0	1	0	1	7	1
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Malacostraca;Amphipoda;Maeridae;Elasmopus;Elasmopus rapax	Elasmopus rapax	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	1	0	0	0	0	0	4
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Malacostraca;Amphipoda;Melitidae;Gammarella;Gammarella fucicola	Gammarella fucicola	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	1	0	0	0	0	7
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Malacostraca;Isopoda;Sphaeromatidae;Cymodoce;Cymodoce sp.	Cymodoce sp.	0	0	0	0	0	13	0	0	1	0	0	2	1	0	0	0	1	0	0	18	0	1	5	13	0	1	14	12	0	67	2	0	24	83	1	11	0	5
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Malacostraca;Isopoda;Sphaeromatidae;Dynamene;Dynamene magnitorata	Dynamene magnitorata	0	0	0	0	0	0	1	61	0	1	12	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	2	2	0	0	0	0	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Malacostraca;Tanaidacea;Leptocheliidae;Leptochelia;Leptochelia dubia	Leptochelia dubia	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	7	0	1	0	0	0	5	23	1	0	0	0	0	0	3	0	0	0	0	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Thecostraca;Balanomorpha;Balanidae;Balanus;Balanus trigonus	Balanus trigonus	56	5	8	168	1425	0	0	0	13	0	0	0	46	0	0	0	2	1	0	20	0	0	2	60	0	1	2	0	0	0	0	0	0	0	0	8	0	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Thecostraca;Verrucomorpha;Verrucidae;Verruca;Verruca stroemia	Verruca stroemia	1224	215	516	90	1744	28	0	0	102	23	2	3	18	1	2	2	12	104	56	457	49	35	46	416	25	28	31	103	66	1	0	9	71	13	2	170	8	2
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Arthropoda;Pycnogonida;Pantopoda;Endeidae;Endeis;Endeis spinosa	Endeis spinosa	0	0	0	0	0	1	3	0	0	0	0	0	0	0	0	0	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Annelida;Polychaeta;Protodrilidae;Protodrilidae (family);Protodrilus;Protodrilus adhaerens	Protodrilus adhaerens	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	23	0	0	0	3	0	0	0	0	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Annelida;Polychaeta;Protodrilidae;Protodrilidae (family);Protodrilus;Protodrilus ciliatus	Protodrilus ciliatus	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Annelida;Polychaeta;Eunicida;Eunicidae;Lysidice;Lysidice ninetta	Lysidice ninetta	0	0	0	0	0	1	4	0	0	2	0	0	1	3	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Annelida;Polychaeta;Phyllodocida;Glyceridae;Glycera;Glycera alba	Glycera alba	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	2	7	0	0	0	20	4	0	0	5	3
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Annelida;Polychaeta;Phyllodocida;Hesionidae;Nereimyra;Nereimyra punctata	Nereimyra punctata	4	0	348	15	13	0	0	0	0	0	0	0	0	0	0	0	0	215	5	9	66	12	0	6	160	8	5	0	0	0	0	0	13	0	0	0	0	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Annelida;Polychaeta;Phyllodocida;Nephtyidae;Nephtys;Nephtys hombergii	Nephtys hombergii	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	1	11	0	0	1	2	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Annelida;Polychaeta;Phyllodocida;Nereididae;Platynereis;Platynereis dumerilii	Platynereis dumerilii	135	173	0	0	0	39	435	0	133	47	25	63	331	436	130	120	18	0	17	85	0	6	110	29	12	46	76	891	243	478	67	805	38	1088	16	503	43	131
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Annelida;Polychaeta;Phyllodocida;Phyllodocidae;Eumida;Eumida fenwicki	Eumida fenwicki	0	0	0	0	0	1	7	0	0	0	0	0	0	0	0	0	0	0	0	2	9	4	3	8	0	0	0	0	4	0	0	0	3	0	0	0	0	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Annelida;Polychaeta;Phyllodocida;Polynoidae;Alentia;Alentia gelatinosa	Alentia gelatinosa	0	0	9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	11	0	0	0	0	0	0	0	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Annelida;Polychaeta;Phyllodocida;Syllidae;Amblyosyllis;Amblyosyllis madeirensis	Amblyosyllis madeirensis	0	0	0	0	0	0	0	0	2	5	0	0	0	0	0	0	0	22	0	0	0	0	0	0	0	0	0	0	3	0	0	0	18	0	0	0	0	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Annelida;Polychaeta;Phyllodocida;Syllidae;Eurysyllis;Eurysyllis tuberculata	Eurysyllis tuberculata	0	0	2	0	0	0	5	5	0	1	0	0	0	2	0	0	0	0	4	0	0	1	0	1	1	6	1	0	9	13	0	0	28	8	0	0	1	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Annelida;Polychaeta;Phyllodocida;Syllidae;Myrianida;Myrianida brachycephala	Myrianida brachycephala	0	0	0	0	0	9	10	25	8	147	9	5	13	59	23	7	4	197	46	85	105	175	9	58	112	14	0	4	17	0	0	0	15	0	0	2	16	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Annelida;Polychaeta;Phyllodocida;Syllidae;Myrianida;Myrianida edwarsi	Myrianida edwarsi	0	0	0	0	0	0	0	0	3	11	0	0	4	2	6	0	0	9	0	0	5	1	0	1	1	1	2	0	0	0	0	0	2	0	0	0	0	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Annelida;Polychaeta;Phyllodocida;Syllidae;Myrianida;Myrianida hesperidium	Myrianida hesperidium	0	0	0	0	0	4	37	0	7	37	4	2	14	15	5	0	0	10	2	3	2	8	0	1	2	0	1	0	23	0	0	0	3	0	0	1	4	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Annelida;Polychaeta;Phyllodocida;Syllidae;Myrianida;Myrianida prolifera	Myrianida prolifera	0	0	0	0	0	0	0	0	0	6	0	0	0	1	0	0	0	2	0	6	6	42	0	2	3	0	2	0	5	0	0	0	2	0	0	0	1	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Annelida;Polychaeta;Phyllodocida;Syllidae;Myrianida;Myrianida rubropunctata	Myrianida rubropunctata	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	18	0	36	6	14	2	19	1	0	0	0	0	0	0	0	0	22	0	10	0	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Annelida;Polychaeta;Phyllodocida;Syllidae;Odontosyllis;Odontosyllis fulgurans	Odontosyllis fulgurans	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Annelida;Polychaeta;Phyllodocida;Syllidae;Proceraea;Proceraea aurantiaca	Proceraea aurantiaca	0	0	0	0	0	0	42	0	0	0	21	0	3	33	0	2	0	28	5	0	29	0	0	3	16	0	0	0	0	0	0	0	0	0	0	0	0	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Annelida;Polychaeta;Phyllodocida;Syllidae;Procerastea;Procerastea nematodes	Procerastea nematodes	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	18	2	0	0	48	11	0	0	0	0	0	0	0	0	0	0	0	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Annelida;Polychaeta;Phyllodocida;Syllidae;Syllides;Syllides fulvus	Syllides fulvus	0	0	0	0	0	0	4	0	0	33	0	0	0	8	9	0	0	4	5	0	15	0	0	0	5	0	0	3	29	0	0	0	85	0	0	0	9	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Annelida;Polychaeta;Phyllodocida;Syllidae;Virchowia;Virchowia clavata	Virchowia clavata	0	0	0	0	0	0	16	5	0	15	2	0	0	20	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Annelida;Polychaeta;Chaetopteridae;Chaetopteridae (family);Chaetopterus;Chaetopterus sarsii	Chaetopterus sarsii	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	1	0	2	0	0	0	0	0	6	0	0	0	0	0	0	0	0	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Annelida;Polychaeta;Sabellida;Sabellariidae;Sabellaria;Sabellaria spinulosa	Sabellaria spinulosa	0	0	0	0	0	461	0	0	505	24	13	0	521	0	0	0	2	11	8	17	10	4	0	11	0	0	0	2205	173	55	0	231	287	28	0	468	53	17
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Annelida;Polychaeta;Sabellida;Serpulidae;Hydroides;Hydroides elegans	Hydroides elegans	0	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Annelida;Polychaeta;Sabellida;Serpulidae;Pomatoceros;Pomatoceros triqueter	Pomatoceros triqueter	1	0	1	1	436	24	0	2	34	0	0	1	67	0	0	0	73	3	4	409	1	1	8	262	1	0	14	83	0	2	0	3	1	0	0	37	2	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Annelida;Polychaeta;Spionida;Spionidae;Aonides;Aonides oxycephala	Aonides oxycephala	5	289	542	16	82	0	11	131	2	14	45	12	0	9	40	0	3	42	121	22	25	29	4	21	25	15	4	0	0	8	0	0	2	15	0	0	0	6
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Annelida;Polychaeta;Spionida;Spionidae;Laonice;Laonice cirrata	Laonice cirrata	0	0	0	2	1	0	0	191	95	1	0	0	0	0	0	0	0	27	65	32	14	30	1	2	27	88	187	3	10	0	0	5	3	0	0	0	8	6
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Annelida;Polychaeta;Capitellidae;Capitellidae (family);Capitella;Capitella sp. TD53	Capitella sp. TD53	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	9	0	0	0	0	0	0	0	1	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Annelida;Polychaeta;Paraonidae;Paraonidae (family);Paraonis;Paraonis fulgens	Paraonis fulgens	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Bryozoa;Gymnolaemata;Cheilostomatida;Candidae;Scrupocellaria;Scrupocellaria scruposa	Scrupocellaria scruposa	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	29	23	29	9	8	6	3	1	2	1	0	0	0	0	0	0	0	0	0	0	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Bryozoa;Gymnolaemata;Ctenostomatida;Vesiculariidae;Amathia;Amathia lendigera	Amathia lendigera	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	1	7	0	3	2	2	3	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Bivalvia;Cardiida;Scrobiculariidae;Scrobicularia;Scrobicularia plana	Scrobicularia plana	0	0	0	0	0	0	0	0	0	5	0	0	0	4	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Bivalvia;Cardiida;Semelidae;Abra;Abra alba	Abra alba	0	0	1	17	0	0	0	1	0	0	0	0	0	0	1	0	0	8	0	0	4	0	0	0	6	0	0	0	3	8	0	0	9	2	0	0	1	3
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Bivalvia;Myida;Hiatellidae;Hiatella;Hiatella arctica	Hiatella arctica	650	116	48	45	1049	11	35	14	34	552	34	34	29	109	22	16	36	48	18	169	41	19	56	209	12	8	57	2	9	7	0	1	74	7	0	1	2	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Bivalvia;Venerida;Veneridae;Dosinia;Dosinia lupinus	Dosinia lupinus	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Bivalvia;Mytiloida;Mytilidae;Modiolus;Modiolus barbatus	Modiolus barbatus	24	13	16	2	29	2	9	0	0	16	0	0	2	9	2	0	0	0	3	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Bivalvia;Ostreida;Ostreidae;Ostrea;Ostrea edulis	Ostrea edulis	1516	1	0	3	2901	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Bivalvia;Ostreida;Ostreidae;Ostrea;Ostrea stentina	Ostrea stentina	5096	11	38	111	21323	0	0	0	0	0	0	0	0	0	0	0	21	0	0	104	0	0	0	796	0	0	24	0	0	0	0	0	0	0	0	0	0	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Cephalopoda;Sepiida;Sepiidae;Sepia;Sepia officinalis	Sepia officinalis	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	2	2	2	1	8	2	0	0	2	1
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Gastropoda;Cerithiidae;Cerithiidae (family);Bittium;Bittium reticulatum	Bittium reticulatum	0	0	0	0	0	47	133	23	84	1401	291	296	95	277	70	106	1	8	25	0	0	52	328	0	10	8	284	55	119	173	497	12	75	534	102	30	8	2
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Gastropoda;Littorinimorpha;Capulidae;Capulus;Capulus ungaricus	Capulus ungaricus	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	17	0	0	0	0	0	0	0	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Gastropoda;Littorinimorpha;Naticidae;Euspira;Euspira nitida	Euspira nitida	0	0	0	0	0	0	0	0	0	0	0	25	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Gastropoda;Littorinimorpha;Rissoidae;Alvania;Alvania punctura	Alvania punctura	1	0	15	12	1	4	0	4	4	35	0	6	0	7	0	0	0	29	32	0	3	0	1	0	0	0	2	0	15	0	0	0	15	1	0	0	2	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Gastropoda;Littorinimorpha;Triviidae;Trivia;Trivia monacha	Trivia monacha	85	0	1	0	0	0	0	0	0	0	0	0	0	0	9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Gastropoda;Neogastropoda;Nassariidae;Tritia;Tritia incrassata	Tritia incrassata	0	0	10	1	1	0	1	21	3	0	1	9	3	0	1	9	2	3	37	0	0	21	125	2	1	7	209	33	2	10	14	0	4	33	2	8	0	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Gastropoda;Neogastropoda;Raphitomidae;Leufroyia;Leufroyia concinna	Leufroyia concinna	0	0	0	0	0	0	0	0	3	4	0	400	0	0	0	2	0	18	0	0	11	0	33	0	0	0	27	7	0	0	2	0	0	0	8	0	0	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Gastropoda;Neogastropoda;Muricidae;Ocenebra;Ocenebra erinaceus	Ocenebra erinaceus	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	1	0	0	158	0	0	0	180	1	1	1	55	0	1	0	0	0	0	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Gastropoda;Neogastropoda;Muricidae;Ocinebrina;Ocinebrina aciculata	Ocinebrina aciculata	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Gastropoda;Nudibranchia;Polyceridae;Polycera;Polycera quadrilineata	Polycera quadrilineata	0	0	0	0	0	0	11	0	0	25	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Gastropoda;Nudibranchia;Aeolidiidae;Berghia;Berghia coerulescens	Berghia coerulescens	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Gastropoda;Nudibranchia;Aeolidiidae;Spurilla;Spurilla neapolitana 	Spurilla neapolitana 	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Gastropoda;Nudibranchia;Facelinidae;Favorinus;Favorinus branchialis	Favorinus branchialis	0	0	0	0	0	0	3	0	0	11	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Gastropoda;Nudibranchia;Dotidae;Doto;Doto coronata	Doto coronata	0	0	0	20	0	0	0	0	0	0	0	0	0	0	0	0	0	18	222	19	13	79	12	13	18	305	5	0	0	0	0	0	0	0	0	0	0	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Gastropoda;Nudibranchia;Eubranchidae;Amphorina;Amphorina farrani	Amphorina farrani	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	6	15	0	1	10	0	0	3	15	1	0	0	0	0	0	0	0	0	0	0	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Gastropoda;Nudibranchia;Trinchesiidae;Catriona;Catriona aurantia	Catriona aurantia	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	6	2	0	1	1	11	0	1	0	0	0	0	0	0	0	0	0	0	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Gastropoda;Nudibranchia;Trinchesiidae;Trinchesia;Trinchesia cuanensis	Trinchesia cuanensis	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	17	60	0	3	31	0	2	4	2	0	0	0	0	0	0	0	0	0	0	0	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Gastropoda;Lepetellida;Haliotidae;Haliotis;Haliotis tuberculata	Haliotis tuberculata	0	0	0	0	0	25	0	0	254	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	48	0	0	0	231	9	0	0	145	0	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Gastropoda;Trochida;Calliostomatidae;Calliostoma;Calliostoma zizyphinum	Calliostoma zizyphinum	0	0	0	0	0	7	0	0	0	1	0	620	0	0	0	371	0	7	1	0	0	0	704	0	0	1	464	0	0	0	0	0	11	0	0	9	2	1
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Gastropoda;Trochida;Phasianellidae;Tricolia;Tricolia pullus	Tricolia pullus	0	0	16	0	0	740	32	34	161	55	12	1103	39	40	0	353	2	8	0	13	0	0	156	14	0	0	410	144	35	0	805	8	29	5	420	282	16	49
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Polyplacophora;Chitonida;Acanthochitonidae;Acanthochitona;Acanthochitona crinita	Acanthochitona crinita	0	0	0	0	0	0	2	0	0	0	0	0	0	4	0	0	1	0	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Polyplacophora;Chitonida;Callochitonidae;Callochiton;Callochiton septemvalvis	Callochiton septemvalvis	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	24	0	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Nemertea;Enopla;Monostilifera;Emplectonematidae;Emplectonema;Emplectonema gracile	Emplectonema gracile	1	0	0	3	91	0	0	0	0	0	0	0	0	0	0	0	0	0	0	16	7	1	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Nemertea;Enopla;Monostilifera;Oerstediidae;Oerstedia;Oerstedia dorsalis	Oerstedia dorsalis	0	0	0	0	0	0	2	0	0	2	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Nemertea;Palaeonemertea;Cephalotrichidae;Cephalotrichidae (family);Cephalothrix;Cephalothrix sp. 4 HC	Cephalothrix sp. 4 HC	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	15	0	0	0	4	0	0	0	0	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Nemertea;Pilidiophora;Heteronemertea;Lineidae;Micrura;Micrura purpurea	Micrura purpurea	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Nemertea;Pilidiophora;Heteronemertea;Lineidae;Micrura;Micrura varicolor	Micrura varicolor	0	0	0	0	0	16	16	64	1	0	0	5	0	0	5	0	0	27	7	0	1	1	1	0	0	1	0	0	11	10	0	0	1	0	0	0	1	1
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Nemertea;Pilidiophora;Heteronemertea;Lineidae;Siphonenteron;Siphonenteron bilineatum	Siphonenteron bilineatum	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	35	0	0	0	0	4
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Platyhelminthes;Rhabditophora;Macrostomida;Microstomidae;Microstomum;Microstomum compositum	Microstomum compositum	2	0	0	3	16	0	0	0	0	0	0	0	0	0	0	0	0	18	1	2	4	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Platyhelminthes;Rhabditophora;Polycladida;Prosthiostomidae;Prosthiostomum;Prosthiostomum siphunculus	Prosthiostomum siphunculus	0	0	0	0	0	0	1	0	0	1	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Cnidaria;Anthozoa;Actiniaria;Aiptasiidae;Exaiptasia;Exaiptasia diaphana	Exaiptasia diaphana	0	0	0	0	0	2	8	0	0	8	0	19	0	0	15	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Cnidaria;Anthozoa;Corallimorpharia;Corallimorphidae;Corynactis;Corynactis californica	Corynactis californica	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	14	10	0	5	24	2	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Cnidaria;Anthozoa;Zoantharia;Parazoanthidae;Isozoanthus;Isozoanthus sulcatus	Isozoanthus sulcatus	0	2	2	15	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Cnidaria;Hydrozoa;Anthoathecata;Tubulariidae;Ectopleura;Ectopleura larynx	Ectopleura larynx	0	0	9	0	6	0	0	0	0	0	0	0	0	0	0	0	0	3	2	12	3	6	1	9	2	6	1	0	1	1	0	0	0	2	0	0	0	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Cnidaria;Hydrozoa;Anthoathecata;Tubulariidae;Ectopleura;Ectopleura wrighti	Ectopleura wrighti	6	11	13	26	1	0	0	0	0	1	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	1	0	0	0	2	0	0	0	0	0	0	0	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Cnidaria;Hydrozoa;Anthoathecata;Bougainvilliidae;Bougainvillia;Bougainvillia muscus	Bougainvillia muscus	11	22	22	151	52	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Cnidaria;Hydrozoa;Anthoathecata;Bougainvilliidae;Lizzia;Lizzia blondina	Lizzia blondina	0	0	0	14	3	0	0	0	0	0	0	0	0	0	1	0	0	7	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Cnidaria;Hydrozoa;Anthoathecata;Pandeidae;Amphinema;Amphinema dinema	Amphinema dinema	5	15	40	354	152	0	1	0	11	2	1	0	0	1	0	0	29	253	13	240	44	17	12	109	34	2	2	0	5	0	0	0	2	0	0	5	0	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Cnidaria;Hydrozoa;Leptothecata;Clytiidae;Clytia;Clytia gracilis	Clytia gracilis	0	0	0	0	0	163	34	4	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	40	24	16	0	28	65	18	0	164	13	3
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Cnidaria;Hydrozoa;Leptothecata;Clytiidae;Clytia;Clytia hemisphaerica	Clytia hemisphaerica	0	0	5	13	1	46	28	10	82	13	5	1	152	6	0	4	0	49	1	15	24	12	9	20	28	1	1	1	3	1	0	0	11	4	0	6	3	3
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Cnidaria;Hydrozoa;Leptothecata;Clytiidae;Clytia;Clytia linearis	Clytia linearis	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	12	271	61	58	7	12	41	66	30	10	23	0	0	0	0	0	0	0	0	0	0	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Cnidaria;Hydrozoa;Leptothecata;Obeliidae;Obelia;Obelia sp. 1 SL	Obelia sp. 1 SL	0	0	0	1	5	1	1	1	2	0	1	0	10	2	1	0	3	67	12	29	13	6	4	38	10	3	2	0	1	0	0	1	3	4	0	10	0	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Cnidaria;Hydrozoa;Leptothecata;Obeliidae;Obelia;Obelia dichotoma	Obelia dichotoma	3	19	64	130	51	10	0	0	3	1	0	0	4	0	0	0	1	29	0	2	4	0	3	11	0	0	0	0	0	2	0	0	0	0	0	0	0	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Cnidaria;Hydrozoa;Leptothecata;Obeliidae;Obelia;Obelia geniculata	Obelia geniculata	0	1	1	27	29	2	15	7	844	70	10	12	367	17	3	12	0	6	1	174	62	13	4	5	4	2	0	1	1	0	0	0	1	0	0	3	4	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Cnidaria;Hydrozoa;Leptothecata;Aglaopheniidae;Aglaophenia;Aglaophenia octodonta	Aglaophenia octodonta	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	6	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Cnidaria;Hydrozoa;Leptothecata;Aglaopheniidae;Aglaophenia;Aglaophenia pluma	Aglaophenia pluma	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	1	0	0	0	0	3	0	19	14	0	0	0	0	0	0	0	0	0	0	0	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Cnidaria;Hydrozoa;Leptothecata;Campanulariidae;Campanularia;Campanularia hincksii	Campanularia hincksii	4	0	5	44	32	111	92	24	269	88	34	25	505	129	11	19	2	27	4	6	11	7	3	6	6	1	0	7	18	2	0	4	58	5	0	2	5	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Cnidaria;Hydrozoa;Leptothecata;Halopterididae;Halopteris;Halopteris diaphana	Halopteris diaphana	0	0	0	0	0	0	0	1	0	0	17	0	0	0	0	0	0	6	1	0	0	1	0	9	5	3	8	2	0	9	0	0	0	7	0	0	20	36
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Porifera;Demospongiae;Suberitida;Halichondriidae;Halichondria;Halichondria bowerbanki	Halichondria bowerbanki	0	0	0	0	0	1	0	0	0	0	2	0	0	0	0	6	1	1	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0
+species	Cellular organisms;Eukaryota;Amorphea;Metazoa;Porifera;Homoscleromorpha;Homosclerophorida;Oscarellidae;Oscarella;Oscarella balibaloi	Oscarella balibaloi	0	0	0	0	0	16	1	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	7	4	0	0	0	0	0	27	2	0
+strain	Cellular organisms;Eukaryota;Amorphea;Metazoa;Mollusca;Gastropoda;Nudibranchia;Aeolidiidae;Spurilla;Spurilla neapolitana ;Spurilla neapolitana	Spurilla neapolitana	0	0	0	0	0	0	4	0	0	3	1	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
